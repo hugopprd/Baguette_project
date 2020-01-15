@@ -1,9 +1,9 @@
 # Geoscripting project repository.
 
 Geoscripting 2020 
-Title:
-Team:
-Date:
+- Title:
+- Team:
+- Date:
 
 
 * Forke and clone this repository
