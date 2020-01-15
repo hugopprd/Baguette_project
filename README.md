@@ -1,5 +1,11 @@
-# GeoScriptProject
-Geoscripting project repository. 
+# Geoscripting project repository.
+
+Geoscripting 2020 
+Title:
+Team:
+Date:
+
+
 * Forke and clone this repository
 * Modify the README.md
 * Create a pull request by following the descripting in the following explanation strictly
